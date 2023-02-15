@@ -5,12 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74e50499-42c5-47d9-bfb9-2cefee814780" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/richest/customer/wealth/HighestWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/richest/customer/wealth/Trial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/two/sum/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/CommonPrefix/CommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/ConcatenationOfArray/Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/Factorial/FactorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/Fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/FizzBuzz/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/Parentheses/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/RomanToInteger/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/Stack/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/Stack/StackExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/String/ends/with/EndsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/String/incrementor/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/Who/likes/it/LikeIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/alphabet/product/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/bu8ild/tower/Tower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/camelcase/method/CamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/exes/and/ohs/XO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/growth/of/a/population/Population.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/keep/hydrated/KeepHydrated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/list/filtering/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/maskify/Maskify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/max/min/ManMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/palindrome/number/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/shortest/word/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/sum/of/numbers/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/traingle/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/triangle/odd/number/SumOIfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/uglyNumber/UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/vowel/counter/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/CommonPrefix/CommonPrefixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/ConcatenationOfArray/ConcatenationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/Factorial/FactorialNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/Fibonacci/FibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/FizzBuzzTest/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/Parentheses/ValidParenthesesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/RomanToInteger/RomanToIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/Stack/StackExerciseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/String/ends/with/EndsWithTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/String/incrementor/KataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/Who/likes/it/LikeItTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/alphabet/product/AlphabetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/bu8ild/tower/TowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/camelcase/method/CamelCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/exes/and/ohs/XOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/growth/of/a/population/PopulationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/keep/hydrated/KeepHydratedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/list/filtering/FilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/maskify/MaskifyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/max/min/ManMinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/palindrome/number/PalindromeNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/shortest/word/WordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/sum/of/numbers/SumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/traingle/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/triangle/odd/number/SumOIfNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/uglyNumber/UglyNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/vowel/counter/CounterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +74,22 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -45,18 +109,35 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/CODEMY/Kodilla/Moduł 14.3/tasks&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoSum">
-    <configuration name="HighestWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="richest.customer.wealth.HighestWealth" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="max.min" />
+      <recent name="String.incrementor" />
+      <recent name="triangle.odd.number" />
+      <recent name="alphabet.product" />
+      <recent name="camelcase.method" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ManMinTest">
+    <configuration name="ManMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="max.min.ManMin" />
       <module name="Exercises.Customer.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="richest.customer.wealth.*" />
+          <option name="PATTERN" value="max.min.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,37 +145,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="richest.customer.wealth.Trial" />
-      <module name="Exercises.Customer.main" />
+    <configuration name="KataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.Customer.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="richest.customer.wealth.*" />
+          <option name="PATTERN" value="String.incrementor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="String.incrementor" />
+      <option name="MAIN_CLASS_NAME" value="String.incrementor.KataTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="two.sum.TwoSum" />
-      <module name="Exercises.Customer.main" />
+    <configuration name="KataTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.Customer.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="two.sum.*" />
+          <option name="PATTERN" value="String.incrementor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="String.incrementor" />
+      <option name="MAIN_CLASS_NAME" value="String.incrementor.KataTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManMinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.Customer.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="max.min.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="max.min" />
+      <option name="MAIN_CLASS_NAME" value="max.min.ManMinTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManMinTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exercises.Customer.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="max.min.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="max.min" />
+      <option name="MAIN_CLASS_NAME" value="max.min.ManMinTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.Trial" />
-        <item itemvalue="Application.HighestWealth" />
+        <item itemvalue="JUnit.ManMinTest" />
+        <item itemvalue="JUnit.ManMinTest.test" />
+        <item itemvalue="Application.ManMin" />
+        <item itemvalue="JUnit.KataTest.test" />
+        <item itemvalue="JUnit.KataTest" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +227,21 @@
       <updated>1661704824710</updated>
       <workItem from="1661704826703" duration="6714000" />
       <workItem from="1661874087816" duration="37000" />
-      <workItem from="1666788626611" duration="1349000" />
+      <workItem from="1666788626611" duration="4350000" />
+      <workItem from="1667054893885" duration="999000" />
+      <workItem from="1668361436117" duration="7867000" />
+      <workItem from="1668432061149" duration="52000" />
+      <workItem from="1668769915440" duration="16559000" />
+      <workItem from="1668861986340" duration="3004000" />
+      <workItem from="1672660564795" duration="993000" />
+      <workItem from="1672745901294" duration="127000" />
+      <workItem from="1673257912153" duration="35657000" />
+      <workItem from="1673873352217" duration="7359000" />
+      <workItem from="1674472931069" duration="1005000" />
+      <workItem from="1674475478787" duration="3451000" />
+      <workItem from="1674554477659" duration="1017000" />
+      <workItem from="1674560999526" duration="26000" />
+      <workItem from="1676468129902" duration="2000" />
     </task>
     <servers />
   </component>
